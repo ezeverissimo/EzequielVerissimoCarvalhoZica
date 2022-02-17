@@ -1,7 +1,8 @@
 ### Olá, bem vindo(a) ao meu perfil 👋
 
 
-- 📚 Atualmente estudando back-end na Trybe
+- 🧑‍💻 Front-end developer
+- 📚 Atualmente estudando back-end com Node.js
 - 😄 Pronouns: ele/dele
 
 
