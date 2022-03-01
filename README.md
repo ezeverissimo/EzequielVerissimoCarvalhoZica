@@ -3,7 +3,6 @@
 
 - 🧑‍💻 Front-end developer
 - 📚 Atualmente estudando back-end com Node.js
-- 😄 Pronouns: ele/dele
 
 
 <div align="center">
