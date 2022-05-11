@@ -1,8 +1,8 @@
 ### Olá, bem vindo(a) ao meu perfil 👋
 
 
-- 🧑‍💻 Front-end developer
-- 📚 Atualmente estudando back-end com Node.js
+- 🧑‍💻 Fullstack developer
+- 📚 Atualmente estudando banco de dados não relacionais
 
 
 <div align="center">
