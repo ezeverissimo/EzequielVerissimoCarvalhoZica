@@ -2,7 +2,7 @@
 
 
 - 🧑‍💻 Fullstack developer
-- 📚 Atualmente estudando banco de dados não relacionais
+- 📚 Atualmente estudando Python
 
 
 <div align="center">
