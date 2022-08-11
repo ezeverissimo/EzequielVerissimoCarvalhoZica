@@ -2,7 +2,7 @@
 
 
 - 🧑‍💻 Fullstack developer
-- 📚 Atualmente estudando Python
+- 📚 Atualmente estudando Python e Next.js
 
 
 <div align="center">
